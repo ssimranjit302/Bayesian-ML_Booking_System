@@ -1,3 +1,11 @@
+## ℹ️ Note on Repository Contents
+
+> This repository contains selected excerpts and representative components of the work completed during an internship project.  
+> The materials provided are shared **solely for demonstration and testimonial purposes**.
+
+Due to contractual and confidentiality obligations, the **complete source code, internal assets, and proprietary implementations** are not included in this repository. The content presented here is intended to offer a high-level overview of the approach, design considerations, and technical capabilities demonstrated during the project.
+
+
 ## ⭐ Testimonial
 
 > *"Thank you again for your diligent work on this project.  
