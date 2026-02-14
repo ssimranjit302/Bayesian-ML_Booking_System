@@ -10,7 +10,7 @@
 <details>
 <summary>📧 View original email</summary>
 
-![Email testimonial](<img width="1135" height="319" alt="Screenshot 2026-02-15 at 1 09 04 AM" src="https://github.com/user-attachments/assets/cc8cca32-1f56-4bce-a3ed-f5aafe2e6089" />)
+<img width="1135" height="319" alt="Screenshot 2026-02-15 at 1 09 04 AM" src="https://github.com/user-attachments/assets/6aa9ebf0-d55f-4341-b169-a3e19aec357c" />
 
 
 </details>
