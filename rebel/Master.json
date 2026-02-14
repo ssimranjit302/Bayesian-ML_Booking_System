@@ -1,0 +1,442 @@
+[
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 AM",
+        "End Time": "07:05 AM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 0,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 AM",
+        "End Time": "07:05 AM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 AM",
+        "End Time": "07:05 AM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "07:20 AM",
+        "End Time": "08:05 AM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 3,
+        "Slots left": 1
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "07:20 AM",
+        "End Time": "08:05 AM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 1,
+        "Slots left": 5
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "07:20 AM",
+        "End Time": "08:05 AM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "07:20 AM",
+        "End Time": "08:05 AM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 4,
+        "Slots left": 4
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "08:20 AM",
+        "End Time": "09:05 AM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 1,
+        "Slots left": 3
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "08:20 AM",
+        "End Time": "09:05 AM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 2,
+        "Slots left": 4
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "08:20 AM",
+        "End Time": "09:05 AM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "08:20 AM",
+        "End Time": "09:05 AM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 3,
+        "Slots left": 5
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "09:20 AM",
+        "End Time": "10:05 AM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 0,
+        "Slots left": 4
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "09:20 AM",
+        "End Time": "10:05 AM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 2,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "09:20 AM",
+        "End Time": "10:05 AM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 0,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "09:20 AM",
+        "End Time": "10:05 AM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "11:05 AM",
+        "End Time": "11:50 AM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "11:20 AM",
+        "End Time": "12:05 PM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 1,
+        "Slots left": 3
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "11:20 AM",
+        "End Time": "12:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "11:20 AM",
+        "End Time": "12:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 4,
+        "Slots left": 2
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "12:05 PM",
+        "End Time": "12:50 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "12:20 PM",
+        "End Time": "01:05 PM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 4,
+        "Slots left": 0
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "12:20 PM",
+        "End Time": "01:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "12:20 PM",
+        "End Time": "01:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 0,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "01:05 PM",
+        "End Time": "01:50 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "01:20 PM",
+        "End Time": "02:05 PM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 0,
+        "Slots left": 4
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "01:20 PM",
+        "End Time": "02:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 5,
+        "Slots left": 3
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "01:20 PM",
+        "End Time": "02:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 3,
+        "Slots left": 3
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "02:05 PM",
+        "End Time": "02:50 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 2,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "02:20 PM",
+        "End Time": "03:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "02:20 PM",
+        "End Time": "03:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 0,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "04:20 PM",
+        "End Time": "05:05 PM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 0,
+        "Slots left": 4
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "04:20 PM",
+        "End Time": "05:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "04:20 PM",
+        "End Time": "05:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 0,
+        "Slots left": 6
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "04:20 PM",
+        "End Time": "05:05 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "05:20 PM",
+        "End Time": "06:05 PM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 0,
+        "Slots left": 4
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "05:20 PM",
+        "End Time": "06:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 5,
+        "Slots left": 1
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "05:20 PM",
+        "End Time": "06:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "05:20 PM",
+        "End Time": "06:05 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 PM",
+        "End Time": "07:05 PM",
+        "Location/Club": "HIGH STREET KENSINGTON",
+        "Concept Name": "RESET",
+        "Capacity": 4,
+        "Booked": 4,
+        "Slots left": 0
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 PM",
+        "End Time": "07:05 PM",
+        "Location/Club": "EUSTON",
+        "Concept Name": "RESET",
+        "Capacity": 6,
+        "Booked": 5,
+        "Slots left": 1
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 PM",
+        "End Time": "07:05 PM",
+        "Location/Club": "CHELSEA",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "06:20 PM",
+        "End Time": "07:05 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "07:20 PM",
+        "End Time": "08:05 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 1,
+        "Slots left": 7
+    },
+    {
+        "Date": "18 Dec 2025",
+        "Start Time": "08:20 PM",
+        "End Time": "09:05 PM",
+        "Location/Club": "HOLBORN",
+        "Concept Name": "RESET",
+        "Capacity": 8,
+        "Booked": 0,
+        "Slots left": 8
+    }
+]

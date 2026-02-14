@@ -1,0 +1,86 @@
+========== Thu Nov  6 05:49:00 IST 2025 ==========
+Current working directory: /Users/simran
+Python being used: /Users/simran/PycharmProjects/koyo/venv/bin/python
+Python 3.14.0
+ Master.json created successfully with updated date: 25-11-06
+Pipeline completed at Thu Nov  6 05:49:01 IST 2025
+========== Thu Nov  6 05:54:08 IST 2025 ==========
+Current working directory: /Users/simran
+Python being used: /Users/simran/PycharmProjects/koyo/venv/bin/python
+Python 3.14.0
+Running /Users/simran/PycharmProjects/koyo/1_appointmentRawData.py...
+Error in 1_appointmentRawData.py: Traceback (most recent call last):
+  File "/Users/simran/PycharmProjects/koyo/1_appointmentRawData.py", line 65, in <module>
+    page.goto(URL, wait_until="domcontentloaded")
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/simran/PycharmProjects/koyo/venv/lib/python3.14/site-packages/playwright/sync_api/_generated.py", line 9019, in goto
+    self._sync(
+    ~~~~~~~~~~^
+        self._impl_obj.goto(
+        ^^^^^^^^^^^^^^^^^^^^
+            url=url, timeout=timeout, waitUntil=wait_until, referer=referer
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        )
+        ^
+    )
+    ^
+  File "/Users/simran/PycharmProjects/koyo/venv/lib/python3.14/site-packages/playwright/_impl/_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "/Users/simran/PycharmProjects/koyo/venv/lib/python3.14/site-packages/playwright/_impl/_page.py", line 556, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/simran/PycharmProjects/koyo/venv/lib/python3.14/site-packages/playwright/_impl/_frame.py", line 153, in goto
+    await self._channel.send(
+        "goto", self._navigation_timeout, locals_to_params(locals())
+    )
+  File "/Users/simran/PycharmProjects/koyo/venv/lib/python3.14/site-packages/playwright/_impl/_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/simran/PycharmProjects/koyo/venv/lib/python3.14/site-packages/playwright/_impl/_connection.py", line 558, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: Page.goto: net::ERR_INTERNET_DISCONNECTED at https://www.koyo-wellness.com/book/
+Call log:
+  - navigating to "https://www.koyo-wellness.com/book/", waiting until "domcontentloaded"
+
+
+Pipeline completed at Thu Nov  6 05:54:09 IST 2025
+========== Mon Nov 10 05:49:00 IST 2025 ==========
+Current working directory: /Users/simran
+Python being used: /Users/simran/PycharmProjects/koyo/venv/bin/python
+Python 3.14.0
+ Master.json created successfully with updated date: 25-11-10
+Pipeline completed at Mon Nov 10 05:49:00 IST 2025
+========== Mon Nov 10 05:50:00 IST 2025 ==========
+Current working directory: /Users/simran
+Python being used: /Users/simran/PycharmProjects/koyo/venv/bin/python
+Python 3.14.0
+Running /Users/simran/PycharmProjects/koyo/1_appointmentRawData.py...
+1_appointmentRawData.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/2_bookedSlotsRaw.py...
+2_bookedSlotsRaw.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/3_hourlybooked.py...
+3_hourlybooked.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/4_template.py...
+4_template.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/5_KoyoHourlyTrends.py...
+5_KoyoHourlyTrends.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/6_trippedSlots.py...
+6_trippedSlots.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/7_Master_JSON.py...
+7_Master_JSON.py completed successfully.
+
+Running /Users/simran/PycharmProjects/koyo/8_HistoricalExcel.py...
+8_HistoricalExcel.py completed successfully.
+
+Pipeline completed successfully — final output ready!
+Pipeline completed at Mon Nov 10 05:51:12 IST 2025

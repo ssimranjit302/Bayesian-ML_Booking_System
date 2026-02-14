@@ -1,0 +1,1946 @@
+[
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"07:00",
+        "End Time":"08:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"08:00",
+        "End Time":"09:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"09:00",
+        "End Time":"10:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"10:00",
+        "End Time":"11:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"11:00",
+        "End Time":"12:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"12:00",
+        "End Time":"13:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"13:00",
+        "End Time":"14:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"14:00",
+        "End Time":"15:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"15:00",
+        "End Time":"16:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"16:00",
+        "End Time":"17:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"17:00",
+        "End Time":"18:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Contrast Therapy Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Cryotherapy Session",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Cryotherapy for two",
+        "Staff\/Centre":"Cryotherapy Room",
+        "Capacity":8,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Comprehensive (50min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25 min)",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":2,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 1",
+        "Capacity":4,
+        "Booked":0
+    },
+    {
+        "Date":"25-12-17",
+        "Start Time":"18:00",
+        "End Time":"19:00",
+        "Service\/Class":"Infrared Sauna Maintenance (25min) for two",
+        "Staff\/Centre":"Contrast Room 2",
+        "Capacity":4,
+        "Booked":0
+    }
+]

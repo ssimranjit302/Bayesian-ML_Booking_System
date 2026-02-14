@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2025-11-01",
+        "start_time": "10:30",
+        "end_time": "11:30",
+        "event_name": "Sauna and Cold Plunge",
+        "capacity": 4,
+        "booked": 0,
+        "Available Slots": 4
+    },
+    {
+        "date": "2025-11-01",
+        "start_time": "11:30",
+        "end_time": "12:30",
+        "event_name": "Sauna and Cold Plunge",
+        "capacity": 4,
+        "booked": 0,
+        "Available Slots": 4
+    },
+    {
+        "date": "2025-11-01",
+        "start_time": "18:00",
+        "end_time": "19:00",
+        "event_name": "Sauna and Cold Plunge",
+        "capacity": 4,
+        "booked": 0,
+        "Available Slots": 4
+    },
+    {
+        "date": "2025-11-01",
+        "start_time": "19:00",
+        "end_time": "20:00",
+        "event_name": "Sauna and Cold Plunge",
+        "capacity": 4,
+        "booked": 0,
+        "Available Slots": 4
+    },
+    {
+        "date": "2025-11-01",
+        "start_time": "20:00",
+        "end_time": "21:00",
+        "event_name": "Sauna and Cold Plunge",
+        "capacity": 4,
+        "booked": 0,
+        "Available Slots": 4
+    }
+]

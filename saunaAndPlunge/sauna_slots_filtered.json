@@ -1,0 +1,338 @@
+[
+    {
+        "Date": "2025-12-17",
+        "Start Time": "06:30 AM",
+        "End Time": "07:00 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "07:00 AM",
+        "End Time": "07:30 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "07:30 AM",
+        "End Time": "08:00 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 2,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "08:00 AM",
+        "End Time": "08:30 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 2,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "08:30 AM",
+        "End Time": "09:00 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "09:00 AM",
+        "End Time": "09:30 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "09:00 AM",
+        "End Time": "10:00 AM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "09:30 AM",
+        "End Time": "10:00 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "09:30 AM",
+        "End Time": "10:30 AM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "10:00 AM",
+        "End Time": "10:30 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "10:00 AM",
+        "End Time": "11:00 AM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "10:30 AM",
+        "End Time": "11:00 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "10:30 AM",
+        "End Time": "11:30 AM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "11:00 AM",
+        "End Time": "11:30 AM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "11:00 AM",
+        "End Time": "12:00 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 8,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "11:30 AM",
+        "End Time": "12:30 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 2,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "11:30 AM",
+        "End Time": "12:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "12:00 PM",
+        "End Time": "12:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "12:00 PM",
+        "End Time": "01:00 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "12:30 PM",
+        "End Time": "01:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "12:30 PM",
+        "End Time": "01:30 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "01:00 PM",
+        "End Time": "02:00 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "01:00 PM",
+        "End Time": "01:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "01:30 PM",
+        "End Time": "02:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "01:30 PM",
+        "End Time": "02:30 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 2,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "02:00 PM",
+        "End Time": "02:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "02:00 PM",
+        "End Time": "03:00 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "02:30 PM",
+        "End Time": "03:30 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "02:30 PM",
+        "End Time": "03:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "03:00 PM",
+        "End Time": "04:00 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "03:00 PM",
+        "End Time": "03:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "03:30 PM",
+        "End Time": "04:30 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "03:30 PM",
+        "End Time": "04:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "04:00 PM",
+        "End Time": "05:00 PM",
+        "Service": "Contrast Experience (60 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "04:00 PM",
+        "End Time": "04:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "04:30 PM",
+        "End Time": "05:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "05:00 PM",
+        "End Time": "05:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "05:30 PM",
+        "End Time": "06:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 0,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "06:00 PM",
+        "End Time": "06:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "06:30 PM",
+        "End Time": "07:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 6,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "07:00 PM",
+        "End Time": "07:30 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 3,
+        "Max Capacity": 8
+    },
+    {
+        "Date": "2025-12-17",
+        "Start Time": "07:30 PM",
+        "End Time": "08:00 PM",
+        "Service": "Contrast Experience (30 min)",
+        "Booked": 1,
+        "Max Capacity": 8
+    }
+]

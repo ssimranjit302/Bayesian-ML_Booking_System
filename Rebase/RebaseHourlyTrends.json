@@ -1,0 +1,542 @@
+[
+    {
+        "Date":"2026-02-14",
+        "Start Time":"08:00 AM",
+        "End Time":"09:00 AM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"08:00 AM",
+        "End Time":"09:00 AM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"08:00 AM",
+        "End Time":"09:00 AM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"08:00 AM",
+        "End Time":"09:00 AM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"08:00 AM",
+        "End Time":"09:00 AM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":0
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"09:00 AM",
+        "End Time":"10:00 AM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"09:00 AM",
+        "End Time":"10:00 AM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"09:00 AM",
+        "End Time":"10:00 AM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"09:00 AM",
+        "End Time":"10:00 AM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"09:00 AM",
+        "End Time":"10:00 AM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"10:00 AM",
+        "End Time":"11:00 AM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"10:00 AM",
+        "End Time":"11:00 AM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"10:00 AM",
+        "End Time":"11:00 AM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"10:00 AM",
+        "End Time":"11:00 AM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"10:00 AM",
+        "End Time":"11:00 AM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"11:00 AM",
+        "End Time":"12:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"11:00 AM",
+        "End Time":"12:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"11:00 AM",
+        "End Time":"12:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"11:00 AM",
+        "End Time":"12:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"11:00 AM",
+        "End Time":"12:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"12:00 PM",
+        "End Time":"01:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"12:00 PM",
+        "End Time":"01:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"12:00 PM",
+        "End Time":"01:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"12:00 PM",
+        "End Time":"01:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"12:00 PM",
+        "End Time":"01:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"01:00 PM",
+        "End Time":"02:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"01:00 PM",
+        "End Time":"02:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"01:00 PM",
+        "End Time":"02:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"01:00 PM",
+        "End Time":"02:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"01:00 PM",
+        "End Time":"02:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"02:00 PM",
+        "End Time":"03:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"02:00 PM",
+        "End Time":"03:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"02:00 PM",
+        "End Time":"03:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"02:00 PM",
+        "End Time":"03:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"02:00 PM",
+        "End Time":"03:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"03:00 PM",
+        "End Time":"04:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"03:00 PM",
+        "End Time":"04:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"03:00 PM",
+        "End Time":"04:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"03:00 PM",
+        "End Time":"04:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"03:00 PM",
+        "End Time":"04:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"04:00 PM",
+        "End Time":"05:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"04:00 PM",
+        "End Time":"05:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"04:00 PM",
+        "End Time":"05:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"04:00 PM",
+        "End Time":"05:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"04:00 PM",
+        "End Time":"05:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"05:00 PM",
+        "End Time":"06:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"05:00 PM",
+        "End Time":"06:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"05:00 PM",
+        "End Time":"06:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"05:00 PM",
+        "End Time":"06:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"05:00 PM",
+        "End Time":"06:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"06:00 PM",
+        "End Time":"07:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"06:00 PM",
+        "End Time":"07:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"06:00 PM",
+        "End Time":"07:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"06:00 PM",
+        "End Time":"07:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"06:00 PM",
+        "End Time":"07:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"07:00 PM",
+        "End Time":"08:00 PM",
+        "Service\/Class":"Cryotherapy",
+        "Staff\/Suite.":"Cryotherapy Suite.",
+        "Capacity":2,
+        "Booked":2
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"07:00 PM",
+        "End Time":"08:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (45 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"07:00 PM",
+        "End Time":"08:00 PM",
+        "Service\/Class":"Infrared Sauna\/Ice bath (90 mins)",
+        "Staff\/Suite.":"Infrared Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"07:00 PM",
+        "End Time":"08:00 PM",
+        "Service\/Class":"Premium Suite (45 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    },
+    {
+        "Date":"2026-02-14",
+        "Start Time":"07:00 PM",
+        "End Time":"08:00 PM",
+        "Service\/Class":"Premium Suite (90 mins)",
+        "Staff\/Suite.":"Premium Suite.",
+        "Capacity":1,
+        "Booked":1
+    }
+]

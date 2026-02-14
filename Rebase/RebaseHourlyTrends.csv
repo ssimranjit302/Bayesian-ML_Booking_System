@@ -1,0 +1,61 @@
+Date,Start Time,End Time,Service/Class,Staff/Suite.,Capacity,Booked
+2026-02-14,08:00 AM,09:00 AM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,08:00 AM,09:00 AM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,08:00 AM,09:00 AM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,0
+2026-02-14,08:00 AM,09:00 AM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,08:00 AM,09:00 AM,Premium Suite (90 mins),Premium Suite.,1,0
+2026-02-14,09:00 AM,10:00 AM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,09:00 AM,10:00 AM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,09:00 AM,10:00 AM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,09:00 AM,10:00 AM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,09:00 AM,10:00 AM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,10:00 AM,11:00 AM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,10:00 AM,11:00 AM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,10:00 AM,11:00 AM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,10:00 AM,11:00 AM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,10:00 AM,11:00 AM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,11:00 AM,12:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,11:00 AM,12:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,11:00 AM,12:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,11:00 AM,12:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,11:00 AM,12:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,12:00 PM,01:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,12:00 PM,01:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,12:00 PM,01:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,12:00 PM,01:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,12:00 PM,01:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,01:00 PM,02:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,01:00 PM,02:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,01:00 PM,02:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,01:00 PM,02:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,01:00 PM,02:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,02:00 PM,03:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,02:00 PM,03:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,02:00 PM,03:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,02:00 PM,03:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,02:00 PM,03:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,03:00 PM,04:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,03:00 PM,04:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,03:00 PM,04:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,03:00 PM,04:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,03:00 PM,04:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,04:00 PM,05:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,04:00 PM,05:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,04:00 PM,05:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,04:00 PM,05:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,04:00 PM,05:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,05:00 PM,06:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,05:00 PM,06:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,05:00 PM,06:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,05:00 PM,06:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,05:00 PM,06:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,06:00 PM,07:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,06:00 PM,07:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,06:00 PM,07:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,06:00 PM,07:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,06:00 PM,07:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
+2026-02-14,07:00 PM,08:00 PM,Cryotherapy,Cryotherapy Suite.,2,2
+2026-02-14,07:00 PM,08:00 PM,Infrared Sauna/Ice bath (45 mins),Infrared Suite.,1,1
+2026-02-14,07:00 PM,08:00 PM,Infrared Sauna/Ice bath (90 mins),Infrared Suite.,1,1
+2026-02-14,07:00 PM,08:00 PM,Premium Suite (45 mins),Premium Suite.,1,1
+2026-02-14,07:00 PM,08:00 PM,Premium Suite (90 mins),Premium Suite.,1,1
